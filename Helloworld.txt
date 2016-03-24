@@ -1,0 +1,7 @@
+version0.1
+#define <stdio.h>
+int main()
+{
+   printf("HelloWorld!");
+   return 0;
+}
